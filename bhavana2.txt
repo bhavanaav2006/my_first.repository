@@ -1,0 +1,19 @@
+Feature	Description / Benefit
+Rich statistical & mathematical capability	R has built-in functions and libraries for regression, hypothesis testing, time series analysis, clustering, and more. 
+GeeksforGeeks
++3
+TechTarget
++3
+GeeksforGeeks
++3
+Data visualization	Packages like ggplot2, lattice, base graphics, etc. let you make publication‑quality plots and charts. 
+GeeksforGeeks
++2
+Codecademy
++2
+Extensible via packages	The CRAN (Comprehensive R Archive Network) hosts thousands of packages contributed by the community. 
+Wikipedia
++2
+TechTarget
++2
+Interactive / exploratory data analysis	You can write lines or small chunks of code and immediately see results, explore data, tweak parameters, etc
