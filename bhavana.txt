@@ -1,0 +1,5 @@
+R is a language and environment used mainly for statistical computing and graphics.
+
+It’s widely used in data analysis, statistics, machine learning, and visualization.
+
+It has many packages (libraries) maintained through CRAN (Comprehensive R Archive Network).
