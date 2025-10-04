@@ -1,0 +1,10 @@
+Ways R and GitLab can work together
+
+Version control & project management
+Just like with any programming language, you can store your R scripts, projects, packages, analyses in a Git repository on GitLab. This lets you track changes, collaborate, revert to earlier versions, manage branches, etc.
+
+Continuous Integration / Deployment (CI/CD) for R projects
+You can use GitLab CI/CD pipelines to automate tasks for R projects—e.g. run tests, build R packages, generate reports, deploy dashboards.
+
+Interacting with GitLab via R (APIs)
+From within R, you can use packages to call GitLab’s API: manage projects, issues, files, triggers, etc.
