@@ -1,0 +1,11 @@
+GitLab is a web-based DevOps platform that provides tools for source code management (via Git), CI/CD (continuous integration / continuous deployment), issue tracking, code review, and more. 
+TechTarget
++2
+Wikipedia
++2
+
+It aims to cover the full software development lifecycle — from planning to production — in a single application. 
+Y Combinator
++1
+
+It is offered in various editions: a free Community / Open Source edition, plus enterprise / paid versions with additional features. 
